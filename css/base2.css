@@ -185,7 +185,7 @@ body {
   .container {
     width: 100%; } }
 
-.btn {
+.btnown {
   display: inline-block;
   height: 54px;
   line-height: 54px;
@@ -194,7 +194,7 @@ body {
   font-size: 18px;
   font-family: "moderat", sans-serif;
   transition: all .3s ease-out; }
-  .btn:hover {
+  .btnown:hover {
     background-color: #fff;
     color: #e02614;
     transition: all .3s ease-out; }

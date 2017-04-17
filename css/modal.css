@@ -43,7 +43,7 @@
     text-align: center;
     font-size: 0;
 }
-.md-modal .btn-wrap .btn {
+.md-modal .btn-wrap .btnown {
     width: 45%;
     min-width: 80px;
     margin: 0 2.5%;
@@ -112,7 +112,7 @@
     z-index: 200;
 }
 
-.btn {
+.btnown {
     display: inline-block;
     height: 54px;
     line-height: 54px;
